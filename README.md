@@ -5,5 +5,5 @@
 ### 1-Ejecutar archivo Run.bat
 ### 2-Ingresar nombre de archivo (debe ubicarse en la carpeta INPUT)
 ### 3-Esperar a recibir mensaje de finalizacion de filtrado
-### 4-Ingresar nombre de nuevo archivo con los resultados del filtrado (se ubicara en la carpete OUTPUT)
+### 4-Ingresar nombre de nuevo archivo con los resultados del filtrado (se ubicara en la carpeta OUTPUT)
 ### 5-Preionar ENTER para finalizar
